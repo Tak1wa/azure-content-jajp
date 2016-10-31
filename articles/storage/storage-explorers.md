@@ -116,7 +116,7 @@ Microsoft では次のサードパーティ製ツールが主張する機能と�
     <td>○</td>
     <td>○</td>
     <td>○</td>
-    <td>評価版</td>
+    <td>試用版</td>
     <td>○</td>
     <td></td>
     <td></td>
@@ -130,7 +130,7 @@ Microsoft では次のサードパーティ製ツールが主張する機能と�
     <td>○</td>
     <td>○</td>
     <td>○</td>
-    <td>評価版</td>
+    <td>試用版</td>
     <td></td>
     <td>○</td>
     <td></td>
@@ -186,7 +186,7 @@ Microsoft では次のサードパーティ製ツールが主張する機能と�
     <td>○</td>
     <td>○</td>
     <td></td>
-    <td>評価版</td>
+    <td>試用版</td>
     <td></td>
     <td>○</td>
     <td></td>
@@ -214,7 +214,7 @@ Microsoft では次のサードパーティ製ツールが主張する機能と�
     <td></td>
     <td></td>
     <td></td>
-    <td>評価版</td>
+    <td>試用版</td>
     <td></td>
     <td>○</td>
     <td></td>
@@ -242,7 +242,7 @@ Microsoft では次のサードパーティ製ツールが主張する機能と�
     <td>○</td>
     <td>○</td>
     <td>○</td>
-    <td>評価版</td>
+    <td>試用版</td>
     <td>○</td>
     <td></td>
     <td></td>
