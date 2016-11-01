@@ -829,7 +829,7 @@ baseUri と relativeUri の文字列を組み合わせることにより、絶�
 
 リソース マネージャーには、テンプレートのセクションから値を取得し、デプロイに関連する値を取得する次の関数が用意されています。
 
-- [デプロイ](#deployment)
+- [deployment](#deployment)
 - [parameters](#parameters)
 - [variables](#variables)
 
@@ -838,7 +838,7 @@ baseUri と relativeUri の文字列を組み合わせることにより、絶�
 <a id="deployment" />
 ### デプロイ
 
-**デプロイ()**
+**deployment()**
 
 現在のデプロイ操作に関する情報を返します。
 
